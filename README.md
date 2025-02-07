@@ -1,13 +1,4 @@
-<h3 align="center">A passionate frontend developer from Cambodia</h3>
-
-<!-- Remove external profile views and trophy services -->
-<p align="left"> <!-- Removed external stats image --> </p>
-
-<p align="left"> <!-- Removed external trophy image --> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h3 align="center">A passionate fullstack developer from Cambodia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
