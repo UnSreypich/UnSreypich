@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a coding project
 - 📫 I can be reached through emails.
 - 😄 Pronouns: Sreypich
-- ⚡ Fun fact: My other github with more amazing projects is on @DiamondLuver
+- ⚡ Fun fact: My other github with more amazing projects is on [@DiamondLuver](https://github.com/DiamondLuver)
 
 <!---
 UnSreypich/UnSreypich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
