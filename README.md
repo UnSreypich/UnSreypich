@@ -49,9 +49,6 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<!-- Removed external stats links -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unsreypich&show_icons=true&locale=en&layout=compact" alt="unsreypich" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unsreypich&show_icons=true&locale=en" alt="unsreypich" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=unsreypich)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unsreypich&" alt="unsreypich" /></p>
